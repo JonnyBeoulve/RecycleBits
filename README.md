@@ -7,7 +7,11 @@ In an effort to encourage more people to recycle, we decided to build a program 
 On the back-end, a Microsoft Azure API has been trained with hundreds of images to recognize recyclables with a great degree of accuracy.
 
 ## Programming
-The front-end uses React and JavaScript while the back-end is built using C#.
+* HTML
+* CSS
+* JavaScript
+* React.js
+* C#
 
 ## Note
 This is an in-development app that was built during a limited hackathon time frame.
