@@ -15,3 +15,7 @@ On the back-end, a Microsoft Azure API has been trained with hundreds of images 
 
 ## Note
 This is an in-development app that was built during a limited hackathon time frame.
+
+I'm building the front-end for the iOS/Android app at the following respository:
+
+https://github.com/JonnyBeoulve/React-Native-Recycle-Bits
